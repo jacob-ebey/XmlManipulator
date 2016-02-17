@@ -1,0 +1,3 @@
+[submodule "ConsoleNet"]
+	path = ConsoleNet
+	url = https://github.com/jacob-ebey/ConsoleNet.git
